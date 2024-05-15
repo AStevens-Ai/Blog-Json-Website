@@ -24,9 +24,4 @@ This is a Blog Project set up with the help of json-server. Follow the instructi
 
 Note: You may need to `cmd + click` or `cntrl + click` the link generated from this command.
 
-# Blog-Project
-
-# Blog-Project
-# Blog-Json-Website
-# Blog-Json-Website
 # Blog-Json-Website
